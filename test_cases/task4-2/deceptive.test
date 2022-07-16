@@ -1,0 +1,15 @@
+class: "DeceptiveTestpi3"
+
+# The following specifies the layout to be used 
+layoutName: "deceptiveTest2"
+layout: """
+%%%%%%%%%
+%.     o%
+%       %
+%       %
+%  %%%  %
+%  %%%  %
+%   %   %
+%  P    %
+%%%%%%%%%
+"""

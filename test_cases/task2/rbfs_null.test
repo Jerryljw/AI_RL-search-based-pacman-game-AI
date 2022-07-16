@@ -1,0 +1,15 @@
+class: "PacmanSearchTest"
+algorithm: "recursivebfs"
+
+# The following specifies the layout to be used 
+layoutName: "tinyMaze"
+layout: """
+%%%%%%%
+%    P%
+% %%% %
+%  %  %
+%%   %%
+%. %%%%
+%%%%%%%
+"""
+leewayFactor: "1.1"

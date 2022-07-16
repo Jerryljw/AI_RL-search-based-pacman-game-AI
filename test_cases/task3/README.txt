@@ -1,0 +1,2 @@
+Some additional test cases to help you make sure your heuristic is admissible
+Unzip and place in test_cases/task3 to run.  You should see the autograder pass 'food_heuristic_18.test' and 'food_heuristic_19.test' for task3.
